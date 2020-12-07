@@ -1,0 +1,8 @@
+
+#attach-file, #send:hover {
+  cursor: pointer;
+}
+
+.gray {
+  color: gray;
+}
